@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /install/
+Disallow: /cache/
+Disallow: /logs/
+Disallow: /backups/
+Disallow: /api/
+
+Sitemap: /sitemap.xml
